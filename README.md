@@ -1,24 +1,20 @@
 # python-assessment
 Cohort 01 Python Assessment
 
-# 📚 Book Library Management System (Console-based)
+📚 Book Library Management System
+This is a simple console-based Book Library Management System built using Python. It allows users to add, view, borrow, and return books. All book data is stored in a plain text file (library.txt).
 
-This is a simple **Book Library Management System** built using **Python**. It uses a text file (`library.txt`) to manage book records and offers functionalities such as viewing available books, borrowing, returning, and adding new books with auto-incremented IDs.
+🚀 Features
+📖 View all books with availability and timestamps
 
----
+✅ Borrow a book (marks as borrowed and logs borrow time)
 
-## 🚀 Features
+🔁 Return a book (marks as available and clears borrow time)
 
-- 📖 View all available books  
-- 📥 Borrow books by **ID or Title**
-- 📤 Return borrowed books  
-- ➕ Add new books (ID auto-increments starting from 100)
-- 💾 Persistent data storage using `library.txt` file
+➕ Add new books with timestamps
 
----
+💾 Data persistence using a library.txt file
 
-## 🗃️ Book Structure
-
-Each book is stored in `library.txt` in the following format:
-
-
+🗂️ File Structure
+── library.txt          # Book database (auto-created if not found)
+── main.py              # Main Python script
