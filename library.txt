@@ -1,0 +1,10 @@
+101|The Hobbit|J.R.R. Tolkien|Available|2025-05-16 10:00:00|
+102|1984|George Orwell|Available|2025-05-15 09:30:00|
+103|Dune|Frank Herbert|Borrowed|2025-05-10 14:15:00|2025-05-15 16:00:00
+104|To Kill a Mockingbird|Harper Lee|Available|2025-05-14 11:20:00|
+105|Pride and Prejudice|Jane Austen|Available|2025-05-13 13:45:00|
+106|The Catcher in the Rye|J.D. Salinger|Borrowed|2025-05-12 10:10:00|2025-05-16 09:00:00
+107|The Great Gatsby|F. Scott Fitzgerald|Available|2025-05-11 12:30:00|
+108|Moby Dick|Herman Melville|Borrowed|2025-05-09 15:00:00|2025-05-16 20:28:02
+109|War and Peace|Leo Tolstoy|Borrowed|2025-05-08 08:25:00|2025-05-14 14:00:00
+110|Crime and Punishment|Fyodor Dostoevsky|Available|2025-05-07 17:40:00|
